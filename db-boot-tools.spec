@@ -1,3 +1,6 @@
+# Work around incomplete debug packages
+%global _empty_manifest_terminate_build 0
+
 Summary:	Tools for creating images bootable on DragonBoards
 Name:		db-boot-tools
 Version:	20180910
