@@ -4,7 +4,7 @@
 Summary:	Tools for creating images bootable on DragonBoards
 Name:		db-boot-tools
 Version:	20180910
-Release:	3
+Release:	4
 # https://git.linaro.org/landing-teams/working/qualcomm/db-boot-tools.git
 # master branch
 Source0:	db-boot-tools-%{version}.tar.xz
